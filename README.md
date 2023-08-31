@@ -1,3 +1,3 @@
 # wise-repo
 <br>
-author-Hamid
+author-Hamid (Data-Scientist)
